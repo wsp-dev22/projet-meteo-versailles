@@ -35,20 +35,20 @@ Analyser les températures, précipitations et vent à Versailles entre 2020 et 
 
 ## Résultats principaux
 ### Températures
-![Températures Max/Min](images/temp_max_min.png)
-![Température moyenne annuelle](images/temp_moyenne_annuelle.png)
-![Température moyenne mensuelle](images/temp_moyenne_mensuelle.png)
+![Températures Max/Min](image/temp_max_min.png)
+![Température moyenne annuelle](image/temp_moyenne_annuelle.png)
+![Température moyenne mensuelle](image/temp_moyenne_mensuelle.png)
 - La saisonnalité est très claire : hivers froids, étés chauds.  
 - Les différences annuelles sont faibles sur la période 2020-2025.  
 - Pics de chaleur et de froid visibles et identifiés.
 
 ### Précipitations
-![Précipitations annuelles](images/pluie_annuelle.png)
+![Précipitations annuelles](image/pluie_annuelle.png)
 - Les données pour 2020 sont manquantes.  
 - Les autres années montrent la variabilité annuelle.
 
 ### Vent
-![Vitesse du vent annuelle](images/vent_annuel.png)
+![Vitesse du vent annuelle](image/vent_annuel.png)
 - Les valeurs sont cohérentes et suivent des moyennes annuelles stables.
 
 ## Conclusion
