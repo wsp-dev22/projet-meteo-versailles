@@ -34,15 +34,25 @@ Analyser les températures, précipitations et vent à Versailles entre 2020 et 
    - Graphique de la vitesse du vent annuelle
 
 ## Résultats principaux
-- Températures :
-  - La saisonnalité est très claire : hivers froids, étés chauds.
-  - Les différences annuelles sont faibles sur la période 2020-2025.
-  - Pics de chaleur et de froid visibles et identifiés.
-- Précipitations :
-  - Les données pour 2020 sont manquantes.
-  - Les autres années montrent la variabilité annuelle.
-- Vent :
-  - Les valeurs sont cohérentes et suivent des moyennes annuelles stables.
+### Températures
+![Températures Max/Min](images/temp_max_min.png)
+![Température moyenne annuelle](images/temp_moyenne_annuelle.png)
+![Température moyenne mensuelle](images/temp_moyenne_mensuelle.png)
+- La saisonnalité est très claire : hivers froids, étés chauds.  
+- Les différences annuelles sont faibles sur la période 2020-2025.  
+- Pics de chaleur et de froid visibles et identifiés.
+
+### Précipitations
+![Précipitations annuelles](images/pluie_annuelle.png)
+- Les données pour 2020 sont manquantes.  
+- Les autres années montrent la variabilité annuelle.
+
+### Vent
+![Vitesse du vent annuelle](images/vent_annuel.png)
+- Les valeurs sont cohérentes et suivent des moyennes annuelles stables.
+
+## Conclusion
+Le projet montre la capacité à manipuler un dataset réel, faire des visualisations et analyser des tendances simples.
 
 ## Conclusion
 Le projet montre une bonne maîtrise :
@@ -55,3 +65,5 @@ Le projet montre une bonne maîtrise :
 - `analyse_meteo.py` : script Python d’analyse et visualisation
 - `versailles_2020_2025.csv` : données météo utilisées
 - `README.md` : ce fichier
+- `images/` : dossier contenant tous les graphiques
+  
