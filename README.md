@@ -55,4 +55,3 @@ Le projet montre une bonne maîtrise :
 - `analyse_meteo.py` : script Python d’analyse et visualisation
 - `versailles_2020_2025.csv` : données météo utilisées
 - `README.md` : ce fichier
-# projet-meteo-versailles
